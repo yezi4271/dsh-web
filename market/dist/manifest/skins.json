@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04",
+  "generated": "2026-09-07",
   "items": [
     {
       "id": "whale-song",
@@ -1660,6 +1660,7 @@
         "README.md",
         "README.zh.md",
         "assets/blue-throated-bee-eater.jpg",
+        "assets/selected-branch.svg",
         "preview/dark.jpg",
         "preview/light.jpg",
         "skin.css",

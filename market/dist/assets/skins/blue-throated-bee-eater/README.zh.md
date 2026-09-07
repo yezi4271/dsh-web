@@ -7,8 +7,13 @@
 ## 是什么
 
 - **纯资产**：`skin.json`（v2 清单）+ `skin.css`（token 重映射）+
-  `assets/blue-throated-bee-eater.jpg`（背景照片）+ 双语 README 与 NOTICE。
+  `assets/blue-throated-bee-eater.jpg`（背景照片）+
+  `assets/selected-branch.svg`（选中行花枝）+ 双语 README 与 NOTICE。
   无 package.json、无构建步骤；皮肤中心包是唯一加载器。
+- **选中元素花枝**：选中的侧栏会话行与标签页底缘托起一条纤细花枝
+  （`assets/selected-branch.svg`，原创矢量：湛蓝枝干、青绿叶片、白瓣栗心
+  五瓣小花），锚定 shell 稳定的 `data-pane` / `treeitem` / `aria-selected`
+  钩子；皮肤目录资产不可达的场合回退为柔和的湛蓝渐变底边。
 - **token 优先**：亮色值挂在 `:root`，暗色值挂在
   `body[data-ds-dark-theme]`；加载器把每条选择器作用域到
   `html[data-dsh-skin="blue-throated-bee-eater"]`。
