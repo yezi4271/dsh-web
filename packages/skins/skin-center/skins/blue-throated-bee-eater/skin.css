@@ -215,7 +215,7 @@ body[data-ds-dark-theme]:is([data-dsh-backdrop-active], [data-dsh-wallpaper-acti
   height: 28px;
   z-index: 1;
   pointer-events: none;
-  background-image: url("assets/selected-bee-scene.svg");
+  background-image: url("assets/selected-flower.svg");
   background-repeat: no-repeat;
   background-size: 26px 28px;
   background-position: center;
