@@ -209,7 +209,7 @@ body[data-ds-dark-theme]:is([data-dsh-backdrop-active], [data-dsh-wallpaper-acti
 [data-pane="sidebar"] [role="treeitem"][aria-selected="true"]::before {
   content: "";
   position: absolute;
-  left: 8px;
+  left: 2px;
   bottom: 1px;
   width: 26px;
   height: 28px;

@@ -19,9 +19,9 @@ photograph fills the backdrop behind frosted panels.
   is the only loader.
 - **Selected-element meadow**: the active sidebar row and selected tabs carry
   a low grass border along their bottom edge, and by the left border of the
-  selected row a single flower grows from the meadow with a small bee diving
-  head-first onto it, painted in flower-and-bird (huaniaohua) ink-wash style
-  — the bee-eater's own larder. The scene lives in the empty
+  selected row a single flower grows from the meadow with a daxieyi ink bee diving
+  head-first onto it - a few bold brushstrokes, dry-brush flying white, amber
+  wash abdomen, mist wings - the bee-eater's own larder. The scene lives in the empty
   marker slot area beside the title, on the shell's stable `data-pane` /
   `treeitem` / `aria-selected` hooks, so it never covers text; a soft azure
   gradient stands in where skin-dir assets are not served.

@@ -302,7 +302,7 @@ html[data-dsh-skin="blue-throated-bee-eater"] [role="tab"][aria-selected="true"]
 html[data-dsh-skin="blue-throated-bee-eater"] [data-pane="sidebar"] [role="treeitem"][aria-selected="true"]::before {
   content: "";
   position: absolute;
-  left: 8px;
+  left: 2px;
   bottom: 1px;
   width: 26px;
   height: 28px;
