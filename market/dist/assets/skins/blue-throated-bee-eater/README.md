@@ -13,14 +13,16 @@ photograph fills the backdrop behind frosted panels.
 
 - **Pure assets**: `skin.json` (v2 manifest) + `skin.css` (token remap) +
   `assets/blue-throated-bee-eater.jpg` (background photo) +
-  `assets/selected-branch.svg` (selected-row ornament) + bilingual README
-  and NOTICE. No package.json, no build step; the skin-center package is the
-  only loader.
-- **Selected-element ornament**: the active sidebar row and selected tabs
-  carry a slender flowering twig along their bottom edge
-  (`assets/selected-branch.svg` — original artwork, azure bark, teal leaves,
-  white five-petal blossoms with chestnut centers). Anchored on the shell's
-  stable `data-pane` / `treeitem` / `aria-selected` hooks; a soft azure
+  `assets/selected-grass.svg` (selected-row grass border) +
+  `assets/selected-bee-scene.svg` (flower-and-bee corner scene) + bilingual
+  README and NOTICE. No package.json, no build step; the skin-center package
+  is the only loader.
+- **Selected-element meadow**: the active sidebar row and selected tabs carry
+  a low grass border along their bottom edge, and by the left border of the
+  selected row a single flower grows from the meadow with a small bee diving
+  in to land on it — the bee-eater's own larder. The scene lives in the empty
+  marker slot area beside the title, on the shell's stable `data-pane` /
+  `treeitem` / `aria-selected` hooks, so it never covers text; a soft azure
   gradient stands in where skin-dir assets are not served.
 - **Token-first**: light values on `:root`, dark values under
   `body[data-ds-dark-theme]`; the loader scopes every selector under

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 8" fill="none" aria-hidden="true">
+  <!--
+    Blue-throated Bee-eater skin - grass border strip (repeat-x tile).
+    Short blades in three teal greens with a few azure accents; the left and
+    right edges carry blades so the 220px tile repeats seamlessly.
+    Original artwork by dsh-web, Apache-2.0.
+  -->
+  <path d="M2 8 L2 6 Q2.4 2.6 4.6 1.0 Q3 5 3.8 8 Z" fill="#35836b"/>
+  <path d="M6 8 L6.4 6.6 Q7.2 3.4 9.8 1.4 Q7.6 5.2 8.2 8 Z" fill="#4fae87"/>
+  <path d="M11 8 L11.2 6.8 Q11.6 3.8 13.8 2.2 Q12.4 5.4 12.8 8 Z" fill="#7cceab"/>
+  <path d="M18 8 L18.3 6.4 Q19 2.4 22 0.6 Q19.8 5.4 20.4 8 Z" fill="#4fae87"/>
+  <path d="M25 8 L25.2 7 Q25.6 4 27.8 2.6 Q26.4 5.6 27 8 Z" fill="#35836b"/>
+  <path d="M30 8 L30.4 6.6 Q31.2 2.6 34 0.8 Q31.8 5.6 32.4 8 Z" fill="#7cceab"/>
+  <path d="M36 8 L36.3 6.8 Q36.8 4.2 39 2.8 Q37.6 5.6 38 8 Z" fill="#4fae87"/>
+  <path d="M44 8 L44.4 6.2 Q45.6 3.6 48.4 2.6 Q46.4 5.6 47 8 Z" fill="#4fae87"/>
+  <path d="M52 8 L52.3 7 Q53 5.4 54.8 4.8 Q54 6.4 54.2 8 Z" fill="#7cceab"/>
+  <path d="M57 8 L57.4 6.4 Q58.4 4.2 60.8 3.4 Q59 5.8 59.4 8 Z" fill="#7fc3e8" opacity="0.7"/>
+  <path d="M64 8 L64.3 6.8 Q65 5 66.8 4.4 Q65.8 6.2 66 8 Z" fill="#35836b"/>
+  <path d="M70 8 L70.4 6.4 Q71.4 4.4 73.6 3.6 Q72 5.8 72.4 8 Z" fill="#4fae87"/>
+  <path d="M77 8 L77.3 7 Q78 5.4 79.8 4.8 Q79 6.2 79.2 8 Z" fill="#7cceab"/>
+  <path d="M85 8 L85.4 6.2 Q86.6 3.6 89.4 2.6 Q87.4 5.6 88 8 Z" fill="#4fae87"/>
+  <path d="M93 8 L93.3 6.8 Q94 5 95.8 4.4 Q94.8 6.2 95 8 Z" fill="#35836b"/>
+  <path d="M99 8 L99.4 6.5 Q100.4 4.5 102.6 3.7 Q101 5.8 101.4 8 Z" fill="#7cceab"/>
+  <path d="M106 8 L106.3 7 Q107 5.4 108.8 4.8 Q108 6.2 108.2 8 Z" fill="#4fae87"/>
+  <path d="M113 8 L113.4 6.3 Q114.4 4.2 116.8 3.4 Q115 5.8 115.3 8 Z" fill="#35836b"/>
+  <path d="M120 8 L120.3 6.8 Q121 5.2 122.8 4.6 Q121.8 6.2 122 8 Z" fill="#7cceab"/>
+  <path d="M128 8 L128.4 6.2 Q129.6 3.6 132.4 2.6 Q130.4 5.6 131 8 Z" fill="#4fae87"/>
+  <path d="M136 8 L136.3 7 Q137 5.4 138.8 4.8 Q138 6.4 138.2 8 Z" fill="#35836b"/>
+  <path d="M141 8 L141.4 6.4 Q142.4 4.4 144.8 3.6 Q143 5.9 143.4 8 Z" fill="#7fc3e8" opacity="0.7"/>
+  <path d="M148 8 L148.3 6.8 Q149 5 150.8 4.4 Q149.8 6.2 150 8 Z" fill="#4fae87"/>
+  <path d="M154 8 L154.4 6.6 Q155.4 4.6 157.6 3.8 Q156 6 156.4 8 Z" fill="#7cceab"/>
+  <path d="M161 8 L161.3 7 Q162 5.4 163.8 4.8 Q163 6.2 163.2 8 Z" fill="#35836b"/>
+  <path d="M169 8 L169.4 6.3 Q170.4 4.2 172.8 3.4 Q171 5.8 171.4 8 Z" fill="#4fae87"/>
+  <path d="M177 8 L177.3 6.8 Q178 5 179.8 4.4 Q178.8 6.2 179 8 Z" fill="#7cceab"/>
+  <path d="M183 8 L183.4 6.5 Q184.4 4.5 186.6 3.7 Q185 5.8 185.4 8 Z" fill="#35836b"/>
+  <path d="M190 8 L190.3 7 Q191 5.4 192.8 4.8 Q192 6.2 192.2 8 Z" fill="#4fae87"/>
+  <path d="M197 8 L197.4 6.2 Q198.6 3.6 201.4 2.6 Q199.4 5.6 200 8 Z" fill="#7cceab"/>
+  <path d="M205 8 L205.3 6.8 Q206 5 207.8 4.4 Q206.8 6.2 207 8 Z" fill="#35836b"/>
+  <path d="M212 8 L212.4 6.6 Q213.4 4.6 215.6 3.8 Q214 6 214.4 8 Z" fill="#4fae87"/>
+  <path d="M218 8 L218.3 7 Q219 5.4 220 4.6 L220 8 Z" fill="#7cceab"/>
+</svg>

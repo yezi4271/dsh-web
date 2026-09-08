@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 28" fill="none" aria-hidden="true">
+  <!--
+    Blue-throated Bee-eater skin - selected-row corner scene (26x28).
+    A meadow tuft at the bottom grows one white five-petal blossom with a
+    chestnut center; a small bee dives in from the upper right, wings swept
+    back, about to land on the flower - the bee-eater's own larder.
+    Original artwork by dsh-web, Apache-2.0.
+  -->
+  <!-- meadow tuft -->
+  <path d="M0 28 L0 26 Q1 22.4 3.6 20.8 Q2.4 24.6 3 28 Z" fill="#3f8f74"/>
+  <path d="M4 28 L4.4 25.4 Q5.8 22.2 9 20.6 Q6.8 24.4 7.6 28 Z" fill="#57ae8c"/>
+  <path d="M10 28 L10.4 25.8 Q11.4 23.2 14 22 Q12.4 25 12.8 28 Z" fill="#74c2a4"/>
+  <path d="M15 28 L15.3 26.2 Q16.4 23.6 19.4 22.6 Q17.4 25.4 18 28 Z" fill="#57ae8c"/>
+  <path d="M21 28 L21.4 25.6 Q22.6 22.8 25.4 21.4 Q23.4 24.8 23.8 28 Z" fill="#3f8f74"/>
+  <path d="M24 28 L26 28 L26 24.4 Q25.4 26.2 24 28 Z" fill="#7fc3e8" opacity="0.6"/>
+  <!-- stem + leaf -->
+  <path d="M8 26.4 C 7.6 22.6, 7.4 18.6, 7.6 15.4" stroke="#4a7d90" stroke-width="1.1" stroke-linecap="round"/>
+  <path d="M7.8 21.4 C 10 20.6, 12 19.4, 13.2 17.8 C 12.2 20, 10.4 21.2, 8.4 21.9 Z" fill="#74c2a4"/>
+  <!-- blossom: five white petals, azure rim, chestnut center -->
+  <g transform="translate(7.6 10.2)">
+    <g fill="#f7fbfd" stroke="#7fc3e8" stroke-width="0.45">
+      <ellipse rx="2.2" ry="3.1" transform="rotate(0) translate(0 -3.1)"/>
+      <ellipse rx="2.2" ry="3.1" transform="rotate(72) translate(0 -3.1)"/>
+      <ellipse rx="2.2" ry="3.1" transform="rotate(144) translate(0 -3.1)"/>
+      <ellipse rx="2.2" ry="3.1" transform="rotate(216) translate(0 -3.1)"/>
+      <ellipse rx="2.2" ry="3.1" transform="rotate(288) translate(0 -3.1)"/>
+    </g>
+    <circle r="1.7" fill="#b26a3b"/>
+    <circle r="0.7" fill="#e8a25c"/>
+  </g>
+  <!-- bee diving from upper right: amber abdomen, dark stripes, swept wings -->
+  <g transform="translate(19.6 7.4) rotate(-24)">
+    <ellipse cx="-1.4" cy="0" rx="3.1" ry="2.1" fill="#d98e3f"/>
+    <ellipse cx="-2.2" cy="0" rx="0.5" ry="2.1" fill="#6b4a2c"/>
+    <ellipse cx="-0.8" cy="0" rx="0.5" ry="2.1" fill="#6b4a2c"/>
+    <ellipse cx="0.6" cy="0" rx="0.5" ry="2.1" fill="#6b4a2c"/>
+    <circle cx="2.9" cy="0" r="1.7" fill="#6b4a2c"/>
+    <path d="M3.4 -1.1 L4.4 -2" stroke="#6b4a2c" stroke-width="0.4" stroke-linecap="round"/>
+    <path d="M3.2 1.1 L4.2 2" stroke="#6b4a2c" stroke-width="0.4" stroke-linecap="round"/>
+    <ellipse cx="-0.6" cy="-2.1" rx="3" ry="1" fill="#7fc3e8" opacity="0.45" transform="rotate(-18)"/>
+    <ellipse cx="-0.2" cy="2.1" rx="2.8" ry="0.95" fill="#7fc3e8" opacity="0.35" transform="rotate(14)"/>
+  </g>
+  <!-- approach motion flecks -->
+  <path d="M23.8 3.6 L25.2 2.4 M25 5 L26 4.2" stroke="#7fc3e8" stroke-width="0.5" stroke-linecap="round" opacity="0.8"/>
+</svg>
