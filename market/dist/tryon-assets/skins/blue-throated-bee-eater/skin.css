@@ -58,6 +58,8 @@ html[data-dsh-skin="blue-throated-bee-eater"] {
   --dsw-alias-button-primary-hover: #3f97e2;
   --dsw-alias-label-primary-foreground: #06283a;
   --dsw-alias-button-contrast-fill: #14323e;
+  --dsw-alias-button-info-fill: #0c3556;
+  --dsw-alias-button-info-hover: #123f68;
   --dsw-alias-button-elevated-fill: #14323e;
   --dsw-alias-button-floating-fill: #1b3340;
   --dsw-alias-button-floating-hover: #24414f;
@@ -111,6 +113,8 @@ html[data-dsh-skin="blue-throated-bee-eater"] {
   --dsw-alias-button-primary-hover: initial;
   --dsw-alias-label-primary-foreground: initial;
   --dsw-alias-button-contrast-fill: initial;
+  --dsw-alias-button-info-fill: initial;
+  --dsw-alias-button-info-hover: initial;
   --dsw-alias-button-elevated-fill: initial;
   --dsw-alias-button-floating-fill: initial;
   --dsw-alias-button-floating-hover: initial;
@@ -156,6 +160,8 @@ html[data-dsh-skin="blue-throated-bee-eater"] body {
   --dsw-alias-button-primary-hover: #3f97e2;
   --dsw-alias-label-primary-foreground: #06283a;
   --dsw-alias-button-contrast-fill: #14323e;
+  --dsw-alias-button-info-fill: #0c3556;
+  --dsw-alias-button-info-hover: #123f68;
   --dsw-alias-button-elevated-fill: #14323e;
   --dsw-alias-button-floating-fill: #1b3340;
   --dsw-alias-button-floating-hover: #24414f;
@@ -216,6 +222,8 @@ html[data-dsh-skin="blue-throated-bee-eater"] body[data-ds-dark-theme] {
   --dsw-alias-button-primary-hover: #41a3e8;
   --dsw-alias-label-primary-foreground: #06283a;
   --dsw-alias-button-contrast-fill: #0a2430;
+  --dsw-alias-button-info-fill: #082c4a;
+  --dsw-alias-button-info-hover: #0b3a5e;
   --dsw-alias-button-elevated-fill: #1b3340;
   --dsw-alias-button-floating-fill: #163541;
   --dsw-alias-button-floating-hover: #1b3f4c;
