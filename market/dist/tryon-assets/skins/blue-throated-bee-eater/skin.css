@@ -231,8 +231,8 @@ html[data-dsh-skin="blue-throated-bee-eater"] body[data-ds-dark-theme] {
   --dsw-specific-selector: #163541;
 
   /* overlays + elevation */
-  --dsw-alias-tooltip-bg: #e2f1f5;
-  --dsw-alias-tooltip-fg: #0c2029;
+  --dsw-alias-tooltip-bg: #163541;
+  --dsw-alias-tooltip-fg: #e2f1f5;
   --dsw-shadow-lv1: 0 1px 2px #00000066;
   --dsw-shadow-lv2: 0 4px 12px #00000080;
   --dsw-shadow-lv3: 0 12px 32px #00000099;
